@@ -14,9 +14,12 @@ This is! ^^
 3. One more
 
 Here is a bullet point list 
+
 * One
 * Two
 * Three
+
+Credit to my nuna for being the first reviewer of my humble website! <3
 
 .. _fampic:
 

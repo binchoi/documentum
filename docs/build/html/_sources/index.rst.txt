@@ -12,6 +12,8 @@ I will document my journey of learning and exploring the world of computers and 
 
 Here is me testing a :ref:`hyperlink <settingup>`. Look at my awesome :ref:`family <fampic>`!
 
+Check out my LeetCode practice `documentation <https://binchoi.github.io/leetcode/build/html/index.html>`_.
+
 
 .. toctree::
    :maxdepth: 2

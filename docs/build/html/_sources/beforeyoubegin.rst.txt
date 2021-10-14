@@ -21,6 +21,19 @@ Here is a bullet point list
 
 Credit to my nuna for being the first reviewer of my humble website! <3
 
+create virtual environment 
+python3 -m venv name_of_venv
+
+activate/deactivate 
+source name_of_venv/bin/activate 
+deactivate
+
+To create website
+pip3 install sphinx
+mkdir docs 
+cd docs
+sphinx quick-start
+
 .. _fampic:
 
 An image of my beautiful family
